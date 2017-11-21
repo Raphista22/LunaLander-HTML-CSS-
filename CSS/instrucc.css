@@ -3,9 +3,5 @@ background:url(../img/Background.jpg) no-repeat center center fixed;
 background-size: cover;
 z-index: -2;
 }
-#text {
-	color:white;
-		
-		font-size: 122%;
-	
+#text {position:absolute;top:50%;left:50%;
 }
