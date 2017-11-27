@@ -79,6 +79,9 @@ z-index: -2;
 #bmenu, #bpausa, #bseguir, #breiniciar, #binstruc, #freno, #faia,  #bnave{
 	
 	background-image:url(../img/spr.png);
+	border-radius:0px;
+	-moz-border-radius:0px;
+	-webkit-border-radius:0px;
 }
 #bmenu{
 	background-position:0px 0px;
